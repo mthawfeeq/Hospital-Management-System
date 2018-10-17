@@ -1,0 +1,9 @@
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Release\ResolveAssemblyReference.cache
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Release\Hospital.Form1.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Release\Hospital.Form2.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Release\Hospital.Form3.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Release\Hospital.Form4.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Release\Hospital.Form5.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Release\Hospital.Form6.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Release\Hospital.Resources.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Release\Hospital.vbproj.GenerateResource.Cache

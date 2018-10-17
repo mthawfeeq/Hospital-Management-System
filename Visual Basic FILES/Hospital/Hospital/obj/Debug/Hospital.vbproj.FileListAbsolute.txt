@@ -1,0 +1,17 @@
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\bin\Debug\Hospital.xml
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.Form3.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.Form4.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.Form5.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.Form6.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.Resources.resources
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.vbproj.GenerateResource.Cache
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.xml
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\bin\Debug\Oracle.DataAccess.dll
+C:\Users\15IT065\Documents\Visual Studio 2008\Projects\Hospital\Hospital\bin\Debug\Hospital.exe.config
